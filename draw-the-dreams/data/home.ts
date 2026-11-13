@@ -130,7 +130,7 @@ export const studentWorks = [
 ];
 
 export const classEnquiryMessage =
-  "Hi! 👋 I would love to know more about Draw The Dreams classes. Could you please share the details?";
+  "Hi! I would love to know more about Draw The Dreams classes. Could you please share the details?";
 
 export const workshopEnquiryMessage =
-  "Hi! 👋 I’d love to know more about the upcoming art workshops at Draw The Dreams. Could you please share the details on dates, timings, fees, and what materials are included? Thanks!";
+  "Hi! I’d love to know more about the upcoming art workshops at Draw The Dreams. Could you please share the details on dates, timings, fees, and what materials are included? Thanks!";

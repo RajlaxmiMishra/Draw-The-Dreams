@@ -85,7 +85,7 @@ export const upcomingWorkshops: Array<{
 }> = [];
 
 export const workshopEnquiryMessage =
-  "Hi! 👋 I’d love to know more about the upcoming art workshops at Draw The Dreams. Could you please share the details on dates, timings, fees, and what materials are included? Thanks!";
+  "Hi! I’d love to know more about the upcoming art workshops at Draw The Dreams. Could you please share the details on dates, timings, fees, and what materials are included? Thanks!";
 
 export const outdoorEnquiryMessage =
-  "Hi! 👋 I'm interested in the outdoor art sessions / open-air sketching workshops at Draw The Dreams. Could you please let me know when and where the next outdoor session is happening, the fee, and what we need to bring?";
+  "Hi! I'm interested in the outdoor art sessions / open-air sketching workshops at Draw The Dreams. Could you please let me know when and where the next outdoor session is happening, the fee, and what we need to bring?";

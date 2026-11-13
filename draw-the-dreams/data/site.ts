@@ -9,9 +9,9 @@ export const siteConfig: SiteConfig = {
   url: "https://drawthedreams.in",
   location: "Powai, Mumbai, Maharashtra",
   whatsapp: {
-    number: "918799162421",
+    number: "919321380904",
     message:
-      "Hi! 👋 I would love to know more about Draw The Dreams classes. Could you please share the details?",
+      "Hi! I would love to know more about Draw The Dreams classes. Could you please share the details?",
   },
   nav: [
     { label: "Home", href: "/" },

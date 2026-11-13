@@ -16,7 +16,7 @@ export const classOfferings = [
     kind: "toddler-play" as const,
     accent: "bg-studio-yellow/35 ring-studio-yellow/50",
     enquiryMessage:
-      "Hello! 🎨 I'm interested in toddler/parent-child creative sessions at Draw The Dreams. Could you share the details on timings, activities, and how to enroll?",
+      "Hello! I'm interested in toddler/parent-child creative sessions at Draw The Dreams. Could you share the details on timings, activities, and how to enroll?",
   },
   {
     slug: "kids",
@@ -28,7 +28,7 @@ export const classOfferings = [
     kind: "kids-studio" as const,
     accent: "bg-magenta/10 ring-magenta/25",
     enquiryMessage:
-      "Hi! 👋 I’d love to know more about the art classes for kids at Draw The Dreams. Could you please share the age groups, schedule, monthly fees, and what materials are needed?",
+      "Hi! I’d love to know more about the art classes for kids at Draw The Dreams. Could you please share the age groups, schedule, monthly fees, and what materials are needed?",
   },
   {
     slug: "adults",
@@ -40,7 +40,7 @@ export const classOfferings = [
     kind: "adult-canvas" as const,
     accent: "bg-teal/12 ring-teal/25",
     enquiryMessage:
-      "Hi! 👋 I’d love to join the adult / mothers' art classes at Draw The Dreams. Since sessions are arranged based on mutual convenience and timing, could you please let me know how we can schedule one, the fee details, and what materials are needed?",
+      "Hi! I’d love to join the adult / mothers' art classes at Draw The Dreams. Since sessions are arranged based on mutual convenience and timing, could you please let me know how we can schedule one, the fee details, and what materials are needed?",
   },
 ];
 
@@ -97,4 +97,4 @@ export const whyCreate = [
 ];
 
 export const classesEnquiryMessage =
-  "Hi! 👋 I would love to know more about Draw The Dreams classes. Could you please share the details?";
+  "Hi! I would love to know more about Draw The Dreams classes. Could you please share the details?";
